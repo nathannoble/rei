@@ -1,0 +1,6 @@
+settings.py
+rei/lib
+rei/bin
+*.sqlite3
+__pycache__
+__init__.py
