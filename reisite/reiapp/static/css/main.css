@@ -1,0 +1,10 @@
+.owl-dots{
+    padding-top: 15px;
+}
+
+.rei-logo {
+    background-image: url(rei_logo256.png);
+    background-size: contain;
+    min-width: 75px;
+    min-height: 75px;
+}
